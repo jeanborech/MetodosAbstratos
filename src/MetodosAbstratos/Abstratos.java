@@ -47,6 +47,7 @@ public class Abstratos {
 				System.out.println(String.format("%.2f", forma.area()));
 		}
 
+            sc.close();
 	}
 
 }
